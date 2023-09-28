@@ -20,9 +20,9 @@
   },
   "topics": [
     {
-      "title": "Introduction",
+      "title": "Getting Your Projects Funded",
       "key": "introduction",
-      "details": "Smart contract auditing is the process of reviewing and testing the source code of a smart contract to identify any potential vulnerabilities or security issues. This can include checking for errors in the code, evaluating the contract's overall design and architecture, and testing the contract's functionality to ensure that it performs as intended. The goal of a smart contract audit is to ensure that the contract is secure and reliable, and that it will function as intended when deployed on a blockchain network.\n\n",
+      "details": "In this course, we will embark on a journey through the diverse avenues available for securing funding for your projects within the Optimism ecosystem. Our aim is to equip you with a deep understanding of the various channels, including Optimism Foundation, Token House, and Citizens' House, to finance your innovative endeavors.\n\nSecuring funding can be a complex endeavor, and that's why we'll provide you with an in-depth exploration of the specific criteria and eligibility requirements for each of these funding avenues. You'll gain valuable insights into the application process, submission timelines, and what it takes to craft a compelling proposal that stands out.\n\nBy the end of this course, you will be well-prepared to navigate the diverse landscape of funding options within the Optimism ecosystem, and you'll have the skills and insights required to pursue and secure funding for your own projects successfully.\n\n",
       "order": 0,
       "explanations": [],
       "questions": [],
