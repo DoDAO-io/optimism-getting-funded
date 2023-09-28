@@ -1,17 +1,19 @@
 {
   "key": "optimism-getting-funded",
   "title": "Getting Funded",
-  "summary": "This is a course template\n",
-  "details": "## Coming Soon",
+  "summary": "This course explains the diverse landscape of funding options within the Optimism ecosystem.\n",
+  "details": "In this course, we will embark on a journey through the diverse avenues available for securing funding for your projects within the Optimism ecosystem. Our aim is to equip you with a deep understanding of the various channels, including Optimism Foundation, Token House, and Citizens' House, to finance your innovative endeavors.\n\nSecuring funding can be a complex endeavor, and that's why we'll provide you with an in-depth exploration of the specific criteria and eligibility requirements for each of these funding avenues. You'll gain valuable insights into the application process, submission timelines, and what it takes to craft a compelling proposal that stands out.\n\nBy the end of this course, you will be well-prepared to navigate the diverse landscape of funding options within the Optimism ecosystem, and you'll have the skills and insights required to pursue and secure funding for your own projects successfully.",
   "duration": "30 mins - 1 hour",
   "highlights": [
-    "Introduction"
+    "Types of Grants",
+    "Grants-Token House",
+    "Grants- Optimism Foundation",
+    "Grants- Citizen House"
   ],
-  "publishStatus": "Draft",
+  "publishStatus": "Live",
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png",
   "courseAdmins": [
-    "0x34d014758297c00fea49935fce172677904d51ef",
-    "0x2a6af0619be90d129ab0d70c10e25c097b6ec67d"
+    ""
   ],
   "coursePassContent": "Pass content of Course !!!!!!!!!!",
   "topicConfig": {
