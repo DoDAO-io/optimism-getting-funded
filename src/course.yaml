@@ -32,7 +32,7 @@ details: >-
   projects successfully.
 duration: 30 mins - 1 hour
 topics:
-  - key: introduction
+  - key: types-of-grants
     title: Types of Grants
     details: |+
       The diagram below showcases various types of funds offered:
@@ -42,7 +42,7 @@ topics:
         <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1696855636046_untitled-2023-09-21-1651.png"/>
       </div>
 
-    explanations: introduction.yaml
+    explanations: types-of-grants.yaml
 courseAdmins:
   - ''
 coursePassContent: Pass content of Course !!!!!!!!!!
