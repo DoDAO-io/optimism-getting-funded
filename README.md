@@ -18,4 +18,4 @@ By the end of this course, you will be well-prepared to navigate the diverse lan
  
  | S.No        | Title       | Contents   | Links      | Status      | Completion Week |
  | ----------- | ----------- |----------- |----------- | ----------- | ----------- |
- | 1      | Types of Grants | | [Details](generated/topics/types-of-grants.md) <br/> [Explanations](generated/explanations/types-of-grants.md) <br/>  <br/>  <br/>  | undefined | undefined | 
+ | 1      | Types of Grants | | [Details](generated/topics/types-of-grants.md) <br/> [Explanations](generated/explanations/types-of-grants.md) <br/>  <br/>  <br/> [Questions](generated/questions/types-of-grants.md) | undefined | undefined | 

@@ -19,3 +19,4 @@ The diagram below showcases various types of funds offered:
 
 
 
+[Questions](./../../generated/questions/types-of-grants.md)

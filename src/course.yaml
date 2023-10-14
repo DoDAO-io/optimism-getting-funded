@@ -43,6 +43,7 @@ topics:
       </div>
 
     explanations: types-of-grants.yaml
+    questions: types-of-grants.yaml
 courseAdmins:
   - ''
 coursePassContent: Pass content of Course !!!!!!!!!!
